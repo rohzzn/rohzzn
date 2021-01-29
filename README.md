@@ -10,5 +10,9 @@ I'm a **software engineer student** 👨‍💻, a **designer** 🎨 and a very 
 - ❤️ Love editing videos and streaming games.
 - 🌟 [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
 <br>
+<p align="center">
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=calatop&show_icons=true&count_private=true&theme=radical">
+</p>
 
+<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Calatop)
