@@ -9,7 +9,3 @@ I'm a **software engineer student** 👨‍💻, a **designer** 🎨 and a very 
 - 🚀 Working on Web Development & Javascript.
 - ❤️ Love editing videos and streaming games.
 - 🌟 [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
-<br>
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=calatop&show_icons=true&include_all_commits=true&theme=dark">
-</p>
