@@ -9,3 +9,6 @@ I'm a **software engineer student** 👨‍💻, a **designer** 🎨 and a very 
 - 🚀 Working on Web Development & Javascript.
 - ❤️ Love editing videos and streaming games.
 - 🌟 [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Calatop)
