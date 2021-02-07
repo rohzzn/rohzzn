@@ -5,6 +5,6 @@
 I'm a **software engineer student**, a **designer** and a very **pasionated person**, interested in opensource projects and web development. 
 
 - <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/block.gif" height="18px" width="18px"> Currently learning Python.
-- 🚀 Working on Web Development & Javascript.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/work.gif" height="18px" width="18px"> Working on Web Development & Javascript.
 - <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/chikka.gif" height="18px" width="18px"> Love editing videos and streaming games.
-- 🌟 [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/loop.gif" height="18px" width="18px"> [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
