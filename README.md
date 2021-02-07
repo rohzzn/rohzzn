@@ -7,5 +7,5 @@ I'm a **software engineer student** 👨‍💻, a **designer** 🎨 and a very 
 
 - 🌱 Currently learning Python.
 - 🚀 Working on Web Development & Javascript.
-- ❤️ Love editing videos and streaming games.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/heart.gif" width="24px"> Love editing videos and streaming games.
 - 🌟 [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
