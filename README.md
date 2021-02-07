@@ -4,7 +4,7 @@
 
 I'm a **software engineer student**, a **designer** and a very **pasionated person**, interested in opensource projects and web development. 
 
-- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/block.gif" height="19" width="19px"> Currently learning Python.
-- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/work.gif" height="19" width="19px">  Working on Web Development & Javascript.
-- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/chikka.gif" height="19" width="19px"> Love editing videos and streaming games.
-- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/fire.gif" height="19" width="19px">  [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/block.gif" height="20" width="20px"> Currently learning Python.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/heart.png" height="20" width="20px">  Working on Web Development & Javascript.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/love.gif" height="20" width="20px"> Love editing videos and streaming games.
+- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/learn.gif" height="20" width="20px"> [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
