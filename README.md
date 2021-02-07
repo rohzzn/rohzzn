@@ -8,4 +8,4 @@ I'm a **software engineer student**, a **designer** and a very **pasionated pers
 - <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/wumpslearn.gif" height="20" width="20px"> Currently learning Python.
 - <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/wupswork.gif" height="20" width="20px">  Working on Web Development & Javascript.
 - <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/wupslove.gif" height="20" width="20px"> Love editing videos and streaming games.
-- <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/wupspat.gif" height="20" width="20px"> [Minimum Designs](https://www.minimumdesigns.shop/) Founder.
+
