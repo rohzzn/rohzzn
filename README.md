@@ -7,5 +7,5 @@ I'm a **software engineer student**, a **designer** and a very **passionate pers
 
 - 🌱 Currently learning Python.
 - 🚀 Working on Web Development & Javascript.
-- 🍵 Love editing videos and streaming games.
+- 🎮 Love editing videos and streaming games.
 - ⛩️ [Minimum Designs](https://www.minimumdesigns.shop/) Owner.
