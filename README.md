@@ -5,6 +5,6 @@
 
 I'm a **software engineer student**, a **designer** and a very **passionate person**, interested in opensource projects and web development. 
 
-- 🌱 Currently learning Python & C.
+- 🌱 Currently learning C & Python.
 - 🚀 Working on Web Development & Javascript.
 - 🎮 Love editing videos and streaming games.
