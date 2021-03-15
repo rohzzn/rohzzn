@@ -8,4 +8,4 @@ I'm a **software engineer student**, a **designer** and a very **passionate pers
 - 🌱 Currently learning C & Python.
 - 🚀 Working on Web Development & Javascript.
 - 🎮 Love editing videos and streaming games.
-- 🌙 Fun Fact: I'm on the moon.
+- 🌙 Fun Fact - I'm on the moon.
