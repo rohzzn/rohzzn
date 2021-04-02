@@ -8,6 +8,6 @@ I'm a **computer science student**, a **designer** and a very **passionate perso
 - 🌱 Currently learning C & Python.
 - 🚀 Working on Web Development & Javascript.
 - 🎮 Love editing videos and streaming games.
-- 🌙 Fun Fact - I'm on the [moon](https://moon.lunarcapsule.com/orders/f572c711-0b59-4c9c-b70a-c4304de72997).
+- 🌙 Fun Fact - I'm on the [moon](https://moon.lunarcapsule.com/orders/f572c711-0b59-4c9c-b70a-c4304de72997) with homies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calatop&label=%20views&color=242933&style=flat" alt="calatop" /> </p>
