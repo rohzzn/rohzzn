@@ -6,7 +6,7 @@
 I'm a **computer science student**, a **designer** and a very **passionate person**, interested in opensource projects and web development. 
 
 - 🌱 Currently learning Python.
-- 🚀 Working on Web Development & Javascript.
+- 🚀 Working on Web Development.
 - 🎮 Love editing videos and streaming games.
 - 🌙 Fun Fact: I'm on the moon.
 
