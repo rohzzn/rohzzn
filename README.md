@@ -9,5 +9,4 @@ I'm a **computer science student**, a **designer** and a very **passionate perso
 - 🎮 Love editing videos and streaming games.
 - 🌙 Fun Fact: I'm on the moon.
 
-<p> <img src=https://komarev.com/ghpvc/?username=calatop &color=242933/></p>
-<p> <img src=https://komarev.com/ghpvc/?username=calatop &style=flat-square&color=white&color=242933/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=calatop&label=%20views&color=242933&style=flat" alt="calatop" /> </p>
