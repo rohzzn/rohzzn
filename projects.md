@@ -1,3 +1,8 @@
+# GitHub Stats
+![default](https://github-readme-stats.vercel.app/api?username=calatop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calatop&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
+
 # Projects
 List of all the projects I've made so far
 
@@ -18,3 +23,4 @@ List of all the projects I've made so far
 | 06  | [Drawing Pad](https://github.com/Calatop/Drawing-pad)                           | [Live Demo](https://calatop.github.io/Drawing-pad/)              |
 | 07  | [Pokedex](https://github.com/Calatop/Pokedex)                       | [Live Demo](https://calatop.github.io/Pokedex/)            |
 | 08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)                       | [Live Demo](https://calatop.github.io/QR-Scanner/)            |
+
