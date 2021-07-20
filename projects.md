@@ -24,4 +24,4 @@ List of all the projects I've made so far
 | 07  | [Pokedex](https://github.com/Calatop/Pokedex)                       | [Live Demo](https://calatop.github.io/Pokedex/)            |
 | 08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)                       | [Live Demo](https://calatop.github.io/QR-Scanner/)            |
 | 09  | [Contact form](https://github.com/Calatop/contact-form)                       | [Live Demo](https://calatop.github.io/contact-form/)            |
-
+| 10  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
