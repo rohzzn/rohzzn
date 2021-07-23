@@ -27,4 +27,4 @@ List of all the projects I've made so far
 | 09  | [Contact form](https://github.com/Calatop/contact-form)                       | [Live Demo](https://calatop.github.io/contact-form/)            |
 | 10  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
 | 11  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator)                       | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/)            |
-| 12  | [Tanoshi](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
+| 12  | [Tanoshi (VS Theme)](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
