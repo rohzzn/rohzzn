@@ -8,3 +8,8 @@ I'm a **computer science student**, a **designer**, and a very **passionate pers
 - 🚀 Working on Web Development.
 - 🎮 Love editing videos and streaming games.
 - 🌙 Fun Fact: I'm on the moon.
+
+
+`Now Playing 🎧`
+
+[<img src="https://spotify-calatop.vercel.app/api/spotify" alt="Spotify Now Playing" width="250" />](https://open.spotify.com/user/rohansanjeev)
