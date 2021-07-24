@@ -16,8 +16,8 @@ List of all the projects I've made so far
 
 |  #  | Mini Projects                                                                                                                    | Links                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
-| 02  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
+| 01  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator)                       | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/)            |
+| 02  |  [Tanoshi (VS Theme)](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
 | 03  | [Todo List](https://github.com/Calatop/Todo)                       | [Live Demo](https://calatop.github.io/Todo/) |
 | 04  | [MAL](https://github.com/Calatop/My-Anime-List-Custom-Theme)                          | [Live Demo](https://myanimelist.net/animelist/Calatop)          |
 | 05  | [GitHub Profiles](https://github.com/Calatop/GitHub-Profiles)                               | [Live Demo](https://calatop.github.io/GitHub-Profiles/)                |
@@ -26,5 +26,6 @@ List of all the projects I've made so far
 | 08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)                       | [Live Demo](https://calatop.github.io/QR-Scanner/)            |
 | 09  | [Contact form](https://github.com/Calatop/contact-form)                       | [Live Demo](https://calatop.github.io/contact-form/)            |
 | 10  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
-| 11  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator)                       | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/)            |
-| 12  | [Tanoshi (VS Theme)](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
+| 11  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
+| 12  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
+| 14  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
