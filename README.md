@@ -7,7 +7,7 @@ I'm a **computer science student**, a **designer**, and a very **passionate pers
 - 🌱 Currently learning Python.
 - 🚀 Working on Web Development.
 - 🎮 Love editing videos and streaming games.
-- 🌙 Fun Fact: I'm on the moon.
+- 🌙 Fun Fact: I'm on the [moon.](https://drive.google.com/file/d/1Cc-BZg04_2VJzd0d3npX0GWwqPJRvOYN/view?usp=sharing)
 
 `Now Playing 🎧`
 
