@@ -28,4 +28,4 @@ List of all the projects I've made so far
 | 10  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
 | 11  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
 | 12  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
-| 14  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
+| 13  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
