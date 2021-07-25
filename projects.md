@@ -24,8 +24,7 @@ List of all the projects I've made so far
 | 06  | [Drawing Pad](https://github.com/Calatop/Drawing-pad)                           | [Live Demo](https://calatop.github.io/Drawing-pad/)              |
 | 07  | [Pokedex](https://github.com/Calatop/Pokedex)                       | [Live Demo](https://calatop.github.io/Pokedex/)            |
 | 08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)                       | [Live Demo](https://calatop.github.io/QR-Scanner/)            |
-| 09  | [Contact form](https://github.com/Calatop/contact-form)                       | [Live Demo](https://calatop.github.io/contact-form/)            |
-| 10  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
-| 11  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
-| 12  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
-| 13  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
+| 09  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
+| 10  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
+| 11  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
+| 12  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
