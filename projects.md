@@ -10,6 +10,8 @@ List of all the projects I've made so far
 |  #  | Projects                                                                                                                  | Links                                                                         |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Discord Bot](https://github.com/Calatop/Zenitsu-bot)                             | [Invite link](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot)               |
+| 02  |  [Tanoshi (VS Theme)](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
+
 
 # Mini Projects
 
@@ -17,7 +19,7 @@ List of all the projects I've made so far
 |  #  | Mini Projects                                                                                                                    | Links                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator)                       | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/)            |
-| 02  |  [Tanoshi (VS Theme)](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
+| 02  | [Tenki (Weather App)](https://github.com/zenandnez/Tenki)                               | [Live Demo](https://zenandnez.github.io/Tenki/)                |
 | 03  | [Todo List](https://github.com/Calatop/Todo)                       | [Live Demo](https://calatop.github.io/Todo/) |
 | 04  | [MAL](https://github.com/Calatop/My-Anime-List-Custom-Theme)                          | [Live Demo](https://myanimelist.net/animelist/Calatop)          |
 | 05  | [GitHub Profiles](https://github.com/Calatop/GitHub-Profiles)                               | [Live Demo](https://calatop.github.io/GitHub-Profiles/)                |
@@ -28,4 +30,3 @@ List of all the projects I've made so far
 | 10  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
 | 11  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
 | 12  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
-| 13  | [Tenki (Weather App)](https://github.com/zenandnez/Tenki)                               | [Live Demo](https://zenandnez.github.io/Tenki/)                |
