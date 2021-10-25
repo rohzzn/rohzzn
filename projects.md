@@ -7,8 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calatop&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 
 # Projects
-List of all the projects I've made so far
-
 
 |  #  | Projects                                                                                                                  | Links                                                                         |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
