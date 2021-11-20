@@ -12,6 +12,7 @@
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Discord Bot](https://github.com/Calatop/Zenitsu-bot)                             | [Invite link](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot)               |
 | 02  |  [Tanoshi (VS Theme)](https://github.com/Calatop/Tanoshi)                       | [Live Demo](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi)            |
+| 03  |  [MREC MEET (Video Call)](https://github.com/Calatop/MREC-MEET)                       | [Live Demo](https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate)            |
 
 
 # Mini Projects
