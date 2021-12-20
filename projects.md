@@ -1,12 +1,18 @@
+# Overview
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=calatop&data=followers,repositories,stars,commits)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,mysql,markdown&includeNames=true)
 
-![image](https://user-images.githubusercontent.com/47408756/138732227-f3a655b3-3b75-4a08-a721-64b489caa3ad.png)
 
 # GitHub Stats
 ![default](https://github-readme-stats.vercel.app/api?username=calatop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calatop&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 
+
 # Projects
+
+![image](https://user-images.githubusercontent.com/47408756/138732227-f3a655b3-3b75-4a08-a721-64b489caa3ad.png)
+
 
 |  #  | Projects                                                                                                                  | Links                                                                         |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
