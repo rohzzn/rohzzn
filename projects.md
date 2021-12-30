@@ -1,6 +1,6 @@
 # Projects
 
-|  #   | Projects                                              | Description                                               | Links                                                        |
+|  #   | Title                                              | Description                                               | Links                                                        |
 | :--: | ----------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
 |  01  | [Zenitsu Bot](https://github.com/Calatop/Zenitsu-bot) | Discord moderation bot with few games and welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
 |  02  | [Tanoshi ](https://github.com/Calatop/Tanoshi)        | Pleasant dark scheme for visual studio code.              | [Market Place](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi) |
@@ -10,7 +10,7 @@
 
 # Mini Projects
 
-|  #   | Mini Projects                                                | Description                               | Links                                                        |
+|  #   | Title                                              | Description                               | Links                                                        |
 | :--: | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
 |  01  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator) | Glassmorphism themed calculator on web.   | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/) |
 |  02  | [Tenki](https://github.com/zenandnez/Tenki)    | Minimal web based weather application.    | [Live Demo](https://zenandnez.github.io/Tenki/)              |
