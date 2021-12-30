@@ -14,19 +14,20 @@
 # Mini Projects
 
 
-|  #  | Mini Projects                                                                                                                    | Links                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator)                       | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/)            |
-| 02  | [Tenki (Weather App)](https://github.com/zenandnez/Tenki)                               | [Live Demo](https://zenandnez.github.io/Tenki/)                |
-| 03  | [Todo List](https://github.com/Calatop/Todo)                       | [Live Demo](https://calatop.github.io/Todo/) |
-| 04  | [MAL](https://github.com/Calatop/My-Anime-List-Custom-Theme)                          | [Live Demo](https://myanimelist.net/animelist/Calatop)          |
-| 05  | [GitHub Profiles](https://github.com/Calatop/GitHub-Profiles)                               | [Live Demo](https://calatop.github.io/GitHub-Profiles/)                |
-| 06  | [Drawing Pad](https://github.com/Calatop/Drawing-pad)                           | [Live Demo](https://calatop.github.io/Drawing-pad/)              |
-| 07  | [Pokedex](https://github.com/Calatop/Pokedex)                       | [Live Demo](https://calatop.github.io/Pokedex/)            |
-| 08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)                       | [Live Demo](https://calatop.github.io/QR-Scanner/)            |
-| 09  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader)                       | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/)            |
-| 10  | [Zenitsu Pattern](https://github.com/Calatop/Zenitsu)                             | [Live Demo](http://zenitsu.me/)               |
-| 11  | [Nezuko Pattern](https://github.com/Calatop/Nezuko)                               | [Live Demo](https://nezuko.me/)                |
-| 12  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites)                               | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop)                |
-| 13  | [TicTacToe](https://github.com/Calatop/tictactoe)                               | [No Demo]()                |
-| 13  | [YumFood](https://github.com/Calatop/YumFood)                               | [No Demo]()                |
+|  #   | Mini Projects                                                | Description                               | Links                                                        |
+| :--: | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
+|  01  | [Glassmorphism Calculator](https://github.com/Calatop/Glassmorphism-Calculator) | Glassmorphism themed calculator on web.   | [Live Demo](https://calatop.github.io/Glassmorphism-Calculator/) |
+|  02  | [Tenki (Weather App)](https://github.com/zenandnez/Tenki)    | Minimal web based weather application.    | [Live Demo](https://zenandnez.github.io/Tenki/)              |
+|  03  | [Todo List](https://github.com/Calatop/Todo)                 | Task management application.              | [Live Demo](https://calatop.github.io/Todo/)                 |
+|  04  | [MAL](https://github.com/Calatop/My-Anime-List-Custom-Theme) | A theme for MyAnimeList community.        | [Live Demo](https://myanimelist.net/animelist/Calatop)       |
+|  05  | [GitHub Profiles](https://github.com/Calatop/GitHub-Profiles) | GitHub Profile searcher using GitHub API. | [Live Demo](https://calatop.github.io/GitHub-Profiles/)      |
+|  06  | [Drawing Pad](https://github.com/Calatop/Drawing-pad)        | Online temporary drawing pad application  | [Live Demo](https://calatop.github.io/Drawing-pad/)          |
+|  07  | [Pokedex](https://github.com/Calatop/Pokedex)                | Catch them all!!                          | [Live Demo](https://calatop.github.io/Pokedex/)              |
+|  08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)          | QR Scanner for the web                    | [Live Demo](https://calatop.github.io/QR-Scanner/)           |
+|  09  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader) | YouTube thumbnail downloader              | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/) |
+|  10  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites) | A script that stop steam from getting friend requests.       | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop) |
+|  11  | [TicTacToe](https://github.com/Calatop/tictactoe)            | TicTacToe game but based on Nezuko and Zenitsu.              | [No Demo]()                                                  |
+|  12  | [YumFood](https://github.com/Calatop/YumFood)                | Food is ew or yum based on user reviews using the SVM algorithm. | [No Demo]()                                                  |
+
+
+
