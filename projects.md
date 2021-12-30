@@ -21,7 +21,7 @@
 |  07  | [Pokedex](https://github.com/Calatop/Pokedex)                | Catch them all!!                          | [Live Demo](https://calatop.github.io/Pokedex/)              |
 |  08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)          | QR Scanner for the web.                    | [Live Demo](https://calatop.github.io/QR-Scanner/)           |
 |  09  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader) | YouTube thumbnail downloader.              | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/) |
-|  10  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites) | A script that stop steam from getting friend requests.       | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop) |
+|  10  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites) | Script that stop steam from getting friend requests.       | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop) |
 |  11  | [TicTacToe](https://github.com/Calatop/tictactoe)            | TicTacToe game but based on Nezuko and Zenitsu.              | [No Demo](https://github.com/Calatop/tictactoe)                                                  |
 |  12  | [YumFood](https://github.com/Calatop/YumFood)                | Food is ew or yum based on user reviews using the SVM algorithm. | [No Demo](https://github.com/Calatop/YumFood)                                                  |
 
