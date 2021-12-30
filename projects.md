@@ -1,7 +1,3 @@
-
-
-![image](https://user-images.githubusercontent.com/47408756/138732227-f3a655b3-3b75-4a08-a721-64b489caa3ad.png)
-
 # Projects
 
 |  #   | Projects                                              | Description                                               | Links                                                        |
