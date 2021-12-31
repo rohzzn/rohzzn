@@ -5,4 +5,4 @@ I'm a computer science student who likes building & designing products. Here is 
 I like pizza, [biking](https://www.strava.com/athletes/51964595), watching [anime](https://myanimelist.net/animelist/Calatop), reading [manga](https://myanimelist.net/mangalist/Calatop),  playing [csgo](https://settings.gg/player/279387466) and [gaming](https://steamcommunity.com/id/calatop) in general. If you like watching people play games jump over to my [livestream](https://www.youtube.com/channel/UCIal5uyyIBPUFq5rLkhLqjg) or join my massive [discord](https://discord.com/invite/shfnNRN) server.
 
 
-<a href="https://solo.to/calatop" target="_blank" > <img align="center" src="https://media.discordapp.net/attachments/771307030404399115/926459580656025610/TREE.png" alt="LinkTree" height="40px" /></a>
+<a href="https://solo.to/calatop" target="_blank" > <img align="center" src="https://user-images.githubusercontent.com/47408756/147824794-cad998fd-a84b-4167-aaaa-5dd15f66547d.png" alt="LinkTree" height="40px" /></a>
