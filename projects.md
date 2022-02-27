@@ -25,5 +25,6 @@
 |  11  | [TicTacToe](https://github.com/zenandnez/TicTacToe)            | TicTacToe game but based on Nezuko and Zenitsu.              | [No Demo](https://github.com/zenandnez/TicTacToe)                                                  |
 |  12  | [YumFood](https://github.com/Calatop/YumFood)                | Food is ew or yum based on user reviews using the SVM algorithm. | [No Demo](https://github.com/Calatop/YumFood)                                                  |
 |  13  | [Typing Speed Test](https://github.com/zenandnez/Typing_Speed_Test) | Check your words and characters per min.   | [Live Demo](https://zenandnez.github.io/Typing_Speed_Test/) |
+|  14  | [QR Generator](https://github.com/Calatop/QR-Generator) | Change text/url into QR Code.   | [Live Demo](https://calatop.github.io/QR-Generator/) |
 
 
