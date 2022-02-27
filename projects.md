@@ -19,7 +19,7 @@
 |  05  | [GitHub Profiles](https://github.com/Calatop/GitHub-Profiles) | GitHub Profile searcher using GitHub API. | [Live Demo](https://calatop.github.io/GitHub-Profiles/)      |
 |  06  | [Drawing Pad](https://github.com/Calatop/Drawing-pad)        | Online temporary drawing pad application.  | [Live Demo](https://calatop.github.io/Drawing-pad/)          |
 |  07  | [Pokedex](https://github.com/Calatop/Pokedex)                | Catch them all!!                          | [Live Demo](https://calatop.github.io/Pokedex/)              |
-|  08  | [QR Scanner](https://github.com/Calatop/QR-Scanner)          | QR Scanner for the web.                    | [Live Demo](https://calatop.github.io/QR-Scanner/)           |
+|  08  | [QR Generator](https://github.com/Calatop/QR-Generator) | Change text/url into QR Code.   | [Live Demo](https://calatop.github.io/QR-Generator/) |
 |  09  | [Thumbnail Downloader](https://github.com/Calatop/Thumbnail-Downloader) | YouTube thumbnail downloader.              | [Live Demo](https://calatop.github.io/Thumbnail-Downloader/) |
 |  10  | [Block Steam Invites](https://github.com/Calatop/Block-Steam-Invites) | Script that stop steam from getting friend requests.       | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=Calatop) |
 |  11  | [TicTacToe](https://github.com/zenandnez/TicTacToe)            | TicTacToe game but based on Nezuko and Zenitsu.              | [No Demo](https://github.com/zenandnez/TicTacToe)                                                  |
