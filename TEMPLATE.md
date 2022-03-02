@@ -6,4 +6,5 @@
 I'm a sophomore computer science student who likes building & designing applications. Here is my [Behance](https://www.behance.net/calatop) and the [list of projects](https://github.com/Calatop/Calatop/blob/main/projects.md) I am working on. I daily use `.html` `.css` `.js` `.py` `.psd` `.jam`. I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 {{ LANGUAGE_TEMPLATE_START:max=3 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
