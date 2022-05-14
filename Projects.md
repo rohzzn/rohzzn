@@ -1,5 +1,3 @@
-## Projects
-
 | Title                                                        | Description                                               | Links                                                        |
 | :----------------------------------------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------- |
 | [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)        | Discord moderation bot with few games and welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
