@@ -2,7 +2,7 @@
 | :----------------------------------------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------- |
 | [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)        | Discord moderation bot with few games and welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
 | [Tanoshi ](https://github.com/rohzzn/Tanoshi)               | Pleasant dark scheme for visual studio code.              | [Market Place](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi) |
-| [MREC MEET ](https://github.com/rohzzn/MEET)           | Video call application for vishesh project expo.          | [Live Demo](https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-rohzzn.vercel.app/authenticate) |
+| [MREC MEET ](https://github.com/rohzzn/MEET)           | Video call application for vishesh project expo.          | [Live Demo](https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate) |
 | [Tenki](https://github.com/zenandnez/Tenki)                  | Minimal web based weather application.                    | [Live Demo](https://zenandnez.github.io/Tenki/)              |
 | [Todo List](https://github.com/rohzzn/Todo)                 | Task management application.                              | [Live Demo](https://rohzzn.github.io/Todo/)                 |
 | [Pokedex](https://github.com/rohzzn/Pokedex)                | Catch them all!!                                          | [Live Demo](https://rohzzn.github.io/Pokedex/)              |
