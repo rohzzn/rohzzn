@@ -2,9 +2,9 @@
 | Title                                                        | Description                                               | Links                                                        |
 | :----------------------------------------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------- |
 | [MREC MEET ](https://github.com/rohzzn/MEET)           | Video call application for vishesh project expo.          | [Live Demo](https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate) |
+| [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)        | Discord moderation bot with few games and welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
 | [Pokemon](https://github.com/rohzzn/Pokemon)                 | Pokémon 2D Platformer                                     | [Live Demo](https://rohzzn.github.io/Pokemon/)               |
 | [Pages](https://github.com/rohzzn/pages)                     | Figma plugin to create pages                              | [Market Place](https://www.figma.com/community/plugin/1106104074775818911/Pages) |
-| [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)        | Discord moderation bot with few games and welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
 | [Tanoshi ](https://github.com/rohzzn/Tanoshi)               | Pleasant dark scheme for visual studio code.              | [Market Place](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi) |
 | [Tenki](https://github.com/zenandnez/Tenki)                  | Minimal web based weather application.                    | [Live Demo](https://zenandnez.github.io/Tenki/)              |
 | [Todo List](https://github.com/rohzzn/Todo)                 | Task management application.                              | [Live Demo](https://rohzzn.github.io/Todo/)                 |
