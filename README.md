@@ -1,5 +1,5 @@
 # Hello there!
-I'm a sophomore computer science student who likes building & designing applications. I Joined Github 3 years ago. Since then I pushed 632 commits, opened 5 issues, submitted 5 pull requests, received 28 stars across 24 personal projects and contributed to 6 public repositories.
+I'm a sophomore computer science student who likes building & designing applications. I Joined Github 3 years ago. Since then I pushed 633 commits, opened 5 issues, submitted 5 pull requests, received 28 stars across 24 personal projects and contributed to 6 public repositories.
 
 Most used languages across my projects:
 
