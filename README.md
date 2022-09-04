@@ -1,5 +1,5 @@
 # Hello there!
-I'm a junior computer science student who likes building & designing applications. I Joined Github 3 years ago. Since then I pushed 636 commits, opened 5 issues, submitted 7 pull requests, received 30 stars across 24 personal projects and contributed to 5 public repositories.
+I'm a junior computer science student who likes building & designing applications. I Joined Github 3 years ago. Since then I pushed 637 commits, opened 5 issues, submitted 7 pull requests, received 30 stars across 24 personal projects and contributed to 5 public repositories.
 
 Most used languages across my projects:
 
@@ -12,4 +12,4 @@ Most used languages across my projects:
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12.4%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/407922731645009932)](https://discord.com/users/407922731645009932)
+[![Discord Presence](https://lanyard.cnrad.dev/api/407922731645009932?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/407922731645009932)
