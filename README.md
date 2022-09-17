@@ -1,4 +1,5 @@
-Joined Github 3 years ago. Since then I pushed 645 commits, opened 5 issues, submitted 7 pull requests, received 30 stars across 24 personal projects and contributed to 5 public repositories.
+# Hello there!
+I Joined Github 3 years ago. Since then I pushed 646 commits, opened 5 issues, submitted 7 pull requests, received 30 stars across 24 personal projects and contributed to 5 public repositories.
 
 Most used languages across my projects:
 
