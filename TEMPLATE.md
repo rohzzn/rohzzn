@@ -1,4 +1,6 @@
-Hello, my name is Rohan and I'm a computer science student who likes to design, draw, and build applications. I joined Github {{ ACCOUNT_AGE }} years ago. Since then I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories. Support my tiny projects by [sponsoring](https://github.com/sponsors/rohzzn) or buy me a cup of [coffee.]()
+I'm a computer science student who likes to [design](https://www.behance.net/rohzzn), draw and build things. If you want to collab, you can schedule a [meeting](https://calendly.com/rohzzn/meet). I spent too much of my life playing FPS games and going to tournaments. You can add me as a friend with my discord id `Rohan#0069` or you can join my [server](https://discord.com/invite/gubvkKGskx). I sell digital products on [gumroad](https://rohzzn.gumroad.com/), and they cost zero dollars.
+
+I joined Github {{ ACCOUNT_AGE }} years ago. Since then I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories. Support my tiny projects by [sponsoring](https://github.com/sponsors/rohzzn) or buy me a cup of [coffee.]()
 
 Most used languages across my projects:
 
