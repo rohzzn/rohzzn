@@ -1,4 +1,4 @@
-Joined Github 3 years ago. Since then I pushed 683 commits, opened 5 issues, submitted 7 pull requests, received 31 stars across 28 personal projects and contributed to 6 public repositories. Support my tiny projects by [sponsoring](https://github.com/sponsors/rohzzn) or buy me [coffee]().
+Hello, my name is Rohan and I'm a computer science student who likes to design, draw, and build applications. I joined Github 3 years ago. Since then I pushed 684 commits, opened 5 issues, submitted 7 pull requests, received 31 stars across 28 personal projects and contributed to 6 public repositories. Support my tiny projects by [sponsoring](https://github.com/sponsors/rohzzn) or buy me a cup of [coffee.]()
 
 Most used languages across my projects:
 
