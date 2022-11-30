@@ -1,5 +1,4 @@
-Hello, I'm Rohan. I occasionally code and take part in contests on [codechef](https://www.codechef.com/users/rohansanjeev) and [leetcode](https://leetcode.com/rohzzn/). I joined Github 3 years ago. Since then I pushed 685 commits, opened 5 issues, submitted 7 pull requests, received 31 stars across 28 personal projects, and contributed to 6 public repositories. Support my teeny projects by [sponsoring](https://github.com/sponsors/rohzzn). If you want to collab, you can schedule a [meeting](https://calendly.com/rohzzn/meet). 
-
+Hello, I'm Rohan. I joined Github 3 years ago. Since then I pushed 685 commits, opened 5 issues, submitted 7 pull requests, received 31 stars across 28 personal projects, and contributed to 6 public repositories. You can support my teeny projects by [sponsoring](https://github.com/sponsors/rohzzn). 
 Most used languages across my projects:
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B155%25)
