@@ -1,6 +1,6 @@
-![image](https://raw.githubusercontent.com/rohzzn/rohzzn/main/Banner.png)
+![image]( https://raw.githubusercontent.com/rohzzn/rohzzn/main/Header.png)
 ---
-Joined Github 3 years ago. Since then I pushed 716 commits, opened 5 issues, submitted 7 pull requests, received 33 stars across 28 personal projects and contributed to 6 public repositories.
+Joined Github 3 years ago. Since then I pushed 717 commits, opened 5 issues, submitted 7 pull requests, received 33 stars across 28 personal projects and contributed to 6 public repositories.
 
 Most used languages across my projects:
 
