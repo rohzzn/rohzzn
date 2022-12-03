@@ -1,8 +1,6 @@
 ![image]( https://raw.githubusercontent.com/rohzzn/rohzzn/main/Header.png)
 ---
-Joined Github 3 years ago. Since then I pushed 717 commits, opened 5 issues, submitted 7 pull requests, received 33 stars across 28 personal projects and contributed to 6 public repositories.
-
-Most used languages across my projects:
+Joined Github 3 years ago. Since then I pushed 718 commits, opened 5 issues, submitted 7 pull requests, received 33 stars across 28 personal projects and contributed to 6 public repositories.
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B155%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B120.2%25)
