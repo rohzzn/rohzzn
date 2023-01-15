@@ -11,5 +11,4 @@
 | [QR Generator](https://github.com/rohzzn/QR-Generator)      | Change text/URL into QR Code.                             | [Live Demo](https://rohzzn.github.io/QR-Generator/)         |
 | [Thumbnail Downloader](https://github.com/rohzzn/Thumbnail-Downloader) | YouTube thumbnail downloader.                             | [Live Demo](https://rohzzn.github.io/Thumbnail-Downloader/) |
 | [Block Steam Invites](https://github.com/rohzzn/Block-Steam-Invites) | Script that stop steam from getting friend requests.      | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=rohzzn) |
-| [YumFood](https://github.com/rohzzn/YumFood)                | Food user reviews using the SVM algorithm.                | [GitHub](https://github.com/rohzzn/YumFood)                 |
 | [Wordle](https://github.com/rohzzn/Wordle)                  | A word guess game clone.                                  | [Live Demo](https://rohzzn.github.io/Wordle/)               |
