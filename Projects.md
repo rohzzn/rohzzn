@@ -14,3 +14,5 @@
 | 10   | [Thumbnail Downloader](https://github.com/rohzzn/thumbnails) | A YouTube thumbnail downloader.                              | [Live Demo](https://rohzzn.github.io/thumbnails/)  |
 | 11   | [Block Steam Invites](https://github.com/rohzzn/Block-Steam-Invites) | A script that prevents Steam from receiving friend requests. | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=rohzzn) |
 | 12   | [Wordle](https://github.com/rohzzn/Wordle)                   | A clone of the word guessing game.                           | [Live Demo](https://rohzzn.github.io/Wordle/)                |
+| 13   | [Everything Minimal](https://github.com/EverythingMinimal)                   | An Online Ecommers clothering Store.                          | [Live Demo](https://github.com/EverythingMinimal)                |
+| 14  | [Kruegers Treasure](https://github.com/KlepticGames/KruegersTreasue)                   | A VR Horror Puzzle Game.                          | [Live Demo](https://github.com/KlepticGames)                |
