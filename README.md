@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.1%25)
 ![EJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.4%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25)
+ ![](https://komarev.com/ghpvc/?username=rohzzn&style=for-the-badge)
 
 ---
 | Project                                                      | Description                                                  | Links                                                        |
