@@ -1,4 +1,10 @@
 ![](https://github.com/rohzzn/rohzzn/blob/main/Gif.gif)
+
+![status](https://dev.discordprofiles.me/badge/status/407922731645009932?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/407922731645009932)
+![vscode](https://dev.discordprofiles.me/badge/vscode/407922731645009932)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/407922731645009932)](https://dev.discordprofiles.me/openspotify/407922731645009932)
+
 ---
 
 {{ LANGUAGE_TEMPLATE_START }}
