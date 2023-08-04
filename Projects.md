@@ -1,30 +1,36 @@
---
+### Games
+
 | Project                                                      | Description                                                  | Links                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Dekho Car](https://github.com/rohzzn/dekhocar)              | A modern and user-friendly rent car website. Find and rent cars easily for your travel needs. | [Live Demo](https://dekhocar.vercel.app/)                    |
-| [Scrapetron](https://github.com/rohzzn/scrapetron)           | Scrapetron is a Python package for web scraping that provides a simple and intuitive API for extracting data from websites. | [PyPI](https://pypi.org/project/scrapetron/)                |
-| [Krueger's Treasure](https://github.com/KlepticGames/KruegersTreasue) | Immerse yourself in this VR horror game where you explore a treacherous treasure hunt. Encounter frightening challenges and uncover the dark secrets. | [Live Demo](https://github.com/KlepticGames/)                |
-| [Pages](https://github.com/rohzzn/pages)                     | A powerful Figma plugin that simplifies page creation and organization. Collaborate seamlessly and improve your design workflow. | [Marketplace](https://www.figma.com/community/plugin/1106104074775818911/Pages) |
-| [Pokemon](https://github.com/rohzzn/pokemon)                 | Embark on a nostalgic adventure with this captivating 2D platformer game featuring beloved Pokémon characters. | [Live Demo](https://rohzzn.github.io/pokemon/)               |
-| [Meet](https://github.com/rohzzn/meet)                  | A video call application developed for the Vishesh project expo. Experience seamless virtual communication with advanced features. | [Live Demo](https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate) |
-| [Scrapetron](https://github.com/rohzzn/scrapetron)           | A web scraping tool that simplifies data extraction from websites. Gather valuable information effortlessly. | [Live Demo](https://pypi.org/project/scrapetron/)            |
-| [Todo iOS App](https://github.com/rohzzn/todoapp)            | Manage your tasks on the go with this sleek Todo app designed specifically for iOS. Stay organized wherever you are. | [Live Demo](https://github.com/rohzzn/todoapp)               |
-| [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)         | A versatile Discord moderation bot with an array of engaging games and a customizable welcome system. Keep your server safe and entertaining. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
-| [Tanoshi](https://github.com/rohzzn/tanoshi)                 | Beautify your Visual Studio Code editor with Tanoshi, a delightful dark scheme that enhances your coding experience. | [Marketplace](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi) |
-| [Hexr](https://github.com/rohzzn/hexpicker)            | Enhance your color picking workflow with this convenient browser extension. Easily extract and save hexadecimal color codes. | [Marketplace](https://chrome.google.com/webstore/detail/hex-picker/jmnkgndafoldkblpnmmollbgkdfemmfc/related?hl=en-GB&authuser=3) |
-| [Todo List](https://github.com/rohzzn/todo)                  | Stay organized and manage your tasks effectively with this intuitive task management application. Never miss a deadline again. | [Live Demo](https://rohzzn.github.io/todo/)                  |
-| [QR Generator](https://github.com/rohzzn/qr)                 | Generate QR codes instantly for text or URLs using this handy tool. Share information in a quick and convenient way. | [Live Demo](https://rohzzn.github.io/qr/)                    |
-| [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
-| [Thumbnailer](https://github.com/rohzzn/thumbnails) | Download YouTube video thumbnails effortlessly with this convenient tool. Save and use thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
-| [Everything Minimal](https://github.com/EverythingMinimal)   | Explore the world of minimalistic fashion with this online e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
+| [Krueger's Treasure](https://github.com/KlepticGames/KruegersTreasue) | VR horror game exploring a treacherous treasure hunt with frightening challenges and dark secrets. | [Live Demo](https://github.com/KlepticGames/)                |
+| [Pokemon](https://github.com/rohzzn/pokemon)                 | Captivating 2D platformer game featuring beloved Pokémon characters in a nostalgic adventure. | [Live Demo](https://rohzzn.github.io/pokemon/)               |
 
-<br>
+### Websites
+
+| Project                                                      | Description                                                  | Links                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Everything Minimal](https://github.com/EverythingMinimal)   | Explore minimalistic fashion with this e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
+| [Dekho Car](https://github.com/rohzzn/dekhocar)              | Modern and user-friendly rent car website for finding and renting cars easily. | [Live Demo](https://dekhocar.vercel.app/)                    |
+| [QR Generator](https://github.com/rohzzn/qr)                 | Handy tool for generating QR codes instantly for text or URLs, making information sharing quick and convenient. | [Live Demo](https://rohzzn.github.io/qr/)                    |
+| [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
+| [Thumbnailer](https://github.com/rohzzn/thumbnails) | Convenient tool to download YouTube video thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
+
+### Applications
+
+| Project                                                      | Description                                                  | Links                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Meet](https://github.com/rohzzn/meet)                  | Video call application developed for the Vishesh project expo. Experience seamless virtual communication with advanced features. | [Live Demo](https://ckvyqugj7184663idk0i811d0su-8rbb2fvau-calatop.vercel.app/authenticate) |
+| [Scrapetron](https://github.com/rohzzn/scrapetron)           | Python package for web scraping, simplifying data extraction from websites. | [Live Demo](https://pypi.org/project/scrapetron/)            |
+| [Todo iOS App](https://github.com/rohzzn/todoapp)            | Sleek Todo app designed specifically for iOS, enabling task management on the go. | [Live Demo](https://github.com/rohzzn/todoapp)               |
+| [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)         | Versatile Discord moderation bot with engaging games and a customizable welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
+| [Tanoshi](https://github.com/rohzzn/tanoshi)                 | Delightful dark scheme for enhancing the Visual Studio Code editor coding experience. | [Marketplace](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi) |
+| [Hexr](https://github.com/rohzzn/hexpicker)            | Convenient browser extension for enhancing color picking workflow and saving hexadecimal color codes. | [Marketplace](https://chrome.google.com/webstore/detail/hex-picker/jmnkgndafoldkblpnmmollbgkdfemmfc/related?hl=en-GB&authuser=3) |
 
 ### Portfolios
 
 | Project                                                      | Description                                                  | Links                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Windows Style Portfolio](https://github.com/rohzzn/windows95) | Windows Style Portfolio is a portfolio website designed with a nostalgic Windows 95 style. It showcases projects and provides a unique user experience reminiscent of the classic operating system. | [Live Demo](https://rohzzn.github.io/windows95/)            |
-| [Portfolio V3](https://github.com/rohzzn/portfolio_v3/)     | Version 3 Portfolio is a minimalist design portfolio website. It focuses on simplicity and elegance, providing an easy way to showcase projects and personal information. | [Live Demo](https://rohzzn.github.io/portfolio_v3/)         |
-| [Portfolio V2](https://github.com/rohzzn/portfolio_v2)      | Version 2 Portfolio features a professional design style, offering a polished and modern look for showcasing projects and skills. | [Live Demo](https://rohzzn.github.io/portfolio_v2/)         |
-| [Portfolio V1](https://github.com/rohzzn/portfolio_v1)      | Version 1 Portfolio has an Anime theme with a clean and simple layout. It presents projects and information in a visually appealing manner. | [Live Demo](https://rohzzn.github.io/portfolio_v1/)         |
+| [Portfolio V4](https://github.com/rohzzn/windows95) | Portfolio website with a nostalgic Windows 95 style, showcasing projects with a classic operating system experience. | [Live Demo](https://rohzzn.github.io/windows95/)            |
+| [Portfolio V3](https://github.com/rohzzn/portfolio_v3/)     | Minimalist design portfolio website, providing a simple and elegant showcase for projects and personal information. | [Live Demo](https://rohzzn.github.io/portfolio_v3/)         |
+| [Portfolio V2](https://github.com/rohzzn/portfolio_v2)      | Professional design style for showcasing projects and skills with a polished and modern look. | [Live Demo](https://rohzzn.github.io/portfolio_v2/)         |
+| [Portfolio V1](https://github.com/rohzzn/portfolio_v1)      | Anime-themed portfolio with a clean and simple layout for visually appealing project presentation. | [Live Demo](https://rohzzn.github.io/portfolio_v1/)         |
