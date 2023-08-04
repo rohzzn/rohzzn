@@ -16,6 +16,15 @@
 | [QR Generator](https://github.com/rohzzn/qr)                 | Generate QR codes instantly for text or URLs using this handy tool. Share information in a quick and convenient way. | [Live Demo](https://rohzzn.github.io/qr/)                    |
 | [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
 | [Thumbnailer](https://github.com/rohzzn/thumbnails) | Download YouTube video thumbnails effortlessly with this convenient tool. Save and use thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
-| [Windows Style Portfolio](https://github.com/rohzzn/windows95) | Windows Style Portfolio is a portfolio website designed with a nostalgic Windows 95 style. It showcases projects and reminiscent of the classic operating system. | [Live Demo](https://rohzzn.github.io/windows95/)            |
 | [Everything Minimal](https://github.com/EverythingMinimal)   | Explore the world of minimalistic fashion with this online e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
 
+<br>
+
+### Portfolios
+
+| Project                                                      | Description                                                  | Links                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Windows Style Portfolio](https://github.com/rohzzn/windows95) | Windows Style Portfolio is a portfolio website designed with a nostalgic Windows 95 style. It showcases projects and provides a unique user experience reminiscent of the classic operating system. | [Live Demo](https://rohzzn.github.io/windows95/)            |
+| [Portfolio V3](https://github.com/rohzzn/portfolio_v3/)     | Version 3 Portfolio is a minimalist design portfolio website. It focuses on simplicity and elegance, providing an easy way to showcase projects and personal information. | [Live Demo](https://rohzzn.github.io/portfolio_v3/)         |
+| [Portfolio V2](https://github.com/rohzzn/portfolio_v2)      | Version 2 Portfolio features a professional design style, offering a polished and modern look for showcasing projects and skills. | [Live Demo](https://rohzzn.github.io/portfolio_v2/)         |
+| [Portfolio V1](https://github.com/rohzzn/portfolio_v1)      | Version 1 Portfolio has an Anime theme with a clean and simple layout. It presents projects and information in a visually appealing manner. | [Live Demo](https://rohzzn.github.io/portfolio_v1/)         |
