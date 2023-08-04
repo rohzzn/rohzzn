@@ -5,15 +5,7 @@
 | [Krueger's Treasure](https://github.com/KlepticGames/KruegersTreasue) | VR horror game exploring a treacherous treasure hunt with frightening challenges and dark secrets. | [Live Demo](https://github.com/KlepticGames/)                |
 | [Pokemon](https://github.com/rohzzn/pokemon)                 | Captivating 2D platformer game featuring beloved Pokémon characters in a nostalgic adventure. | [Live Demo](https://rohzzn.github.io/pokemon/)               |
 
-### Websites
-
-| Project                                                      | Description                                                  | Links                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Everything Minimal](https://github.com/EverythingMinimal)   | Explore minimalistic fashion with this e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
-| [Dekho Car](https://github.com/rohzzn/dekhocar)              | Modern and user-friendly rent car website for finding and renting cars easily. | [Live Demo](https://dekhocar.vercel.app/)                    |
-| [QR Generator](https://github.com/rohzzn/qr)                 | Handy tool for generating QR codes instantly for text or URLs, making information sharing quick and convenient. | [Live Demo](https://rohzzn.github.io/qr/)                    |
-| [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
-| [Thumbnailer](https://github.com/rohzzn/thumbnails) | Convenient tool to download YouTube video thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
+<br>
 
 ### Applications
 
@@ -25,6 +17,20 @@
 | [Zenitsu Bot](https://github.com/rohzzn/Zenitsu-bot)         | Versatile Discord moderation bot with engaging games and a customizable welcome system. | [Invite](https://discord.com/oauth2/authorize?client_id=766218598913146901&permissions=8&scope=bot) |
 | [Tanoshi](https://github.com/rohzzn/tanoshi)                 | Delightful dark scheme for enhancing the Visual Studio Code editor coding experience. | [Marketplace](https://marketplace.visualstudio.com/items?itemName=RohanSanjeev.tanoshi) |
 | [Hexr](https://github.com/rohzzn/hexpicker)            | Convenient browser extension for enhancing color picking workflow and saving hexadecimal color codes. | [Marketplace](https://chrome.google.com/webstore/detail/hex-picker/jmnkgndafoldkblpnmmollbgkdfemmfc/related?hl=en-GB&authuser=3) |
+
+<br>
+
+### Websites
+
+| Project                                                      | Description                                                  | Links                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Dekho Car](https://github.com/rohzzn/dekhocar)              | Modern and user-friendly rent car website for finding and renting cars easily. | [Live Demo](https://dekhocar.vercel.app/)                    |
+| [Everything Minimal](https://github.com/EverythingMinimal)   | Explore minimalistic fashion with this e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
+| [QR](https://github.com/rohzzn/qr)                 | Handy tool for generating QR codes instantly for text or URLs, making information sharing quick and convenient. | [Live Demo](https://rohzzn.github.io/qr/)                    |
+| [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
+| [Thumbnaile Downloader](https://github.com/rohzzn/thumbnails) | Convenient tool to download YouTube video thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
+
+<br>
 
 ### Portfolios
 
