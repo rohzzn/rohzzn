@@ -16,6 +16,6 @@
 | [QR Generator](https://github.com/rohzzn/qr)                 | Generate QR codes instantly for text or URLs using this handy tool. Share information in a quick and convenient way. | [Live Demo](https://rohzzn.github.io/qr/)                    |
 | [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
 | [Thumbnailer](https://github.com/rohzzn/thumbnails) | Download YouTube video thumbnails effortlessly with this convenient tool. Save and use thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
-| [Block Steam Invites](https://github.com/rohzzn/Block-Steam-Invites) | Protect your Steam account from unwanted friend requests with this script that blocks incoming invitations. | [Live Demo](https://www.youtube.com/watch?v=KhLYxv3iry0&ab_channel=rohzzn) |
+| [Windows Style Portfolio](https://github.com/rohzzn/windows95) | Windows Style Portfolio is a portfolio website designed with a nostalgic Windows 95 style. It showcases projects and reminiscent of the classic operating system. | [Live Demo](https://rohzzn.github.io/windows95/)            |
 | [Everything Minimal](https://github.com/EverythingMinimal)   | Explore the world of minimalistic fashion with this online e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
 
