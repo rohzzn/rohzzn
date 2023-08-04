@@ -24,11 +24,14 @@
 
 | Project                                                      | Description                                                  | Links                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Dekho Car](https://github.com/rohzzn/dekhocar)              | Modern and user-friendly rent car website for finding and renting cars easily. | [Live Demo](https://dekhocar.vercel.app/)                    |
 | [Everything Minimal](https://github.com/EverythingMinimal)   | Explore minimalistic fashion with this e-commerce clothing store. Discover stylish and timeless apparel. | [Live Demo](https://github.com/EverythingMinimal)            |
-| [QR](https://github.com/rohzzn/qr)                 | Handy tool for generating QR codes instantly for text or URLs, making information sharing quick and convenient. | [Live Demo](https://rohzzn.github.io/qr/)                    |
+| [Dekho Car](https://github.com/rohzzn/dekhocar)              | Modern and user-friendly rent car website for finding and renting cars easily. | [Live Demo](https://dekhocar.vercel.app/)                    |
+| [QR Generator](https://github.com/rohzzn/qr)                 | Handy tool for generating QR codes instantly for text or URLs, making information sharing quick and convenient. | [Live Demo](https://rohzzn.github.io/qr/)                    |
 | [Pokedex](https://rohzzn.github.io/pokemon/)                 | Become a Pokémon master with this interactive game that allows you to catch and collect various Pokémon species. | [Live Demo](https://rohzzn.github.io/pokedex/)               |
-| [Thumbnaile Downloader](https://github.com/rohzzn/thumbnails) | Convenient tool to download YouTube video thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
+| [Thumbnailer](https://github.com/rohzzn/thumbnails) | Convenient tool to download YouTube video thumbnails for various purposes. | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
+| [College Resume](https://github.com/rohzzn/mrec-resume) | Customizable resume template in the MREC format made with basic HTML, CSS, and JavaScript. | [Live Demo](https://mrec-resume.vercel.app)            |
+| [MCU Timeline](https://github.com/rohzzn/mcu_timeline) | Marvel Cinematic Universe Timeline in chronological order, presented with interactive web elements. | [Live Demo](https://rohzzn.github.io/mcu_timeline/)            |
+
 
 <br>
 
