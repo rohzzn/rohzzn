@@ -1,6 +1,8 @@
 --
 | Project                                                      | Description                                                  | Links                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Dekho Car](https://github.com/rohzzn/dekhocar)              | A modern and user-friendly rent car website. Find and rent cars easily for your travel needs. | [Live Demo](https://dekhocar.vercel.app/)                    |
+| [Scrapetron](https://github.com/rohzzn/scrapetron)           | Scrapetron is a Python package for web scraping that provides a simple and intuitive API for extracting data from websites. | [PyPI](https://pypi.org/project/scrapetron/)                |
 | [Krueger's Treasure](https://github.com/KlepticGames/KruegersTreasue) | Immerse yourself in this VR horror game where you explore a treacherous treasure hunt. Encounter frightening challenges and uncover the dark secrets. | [Live Demo](https://github.com/KlepticGames/)                |
 | [Pages](https://github.com/rohzzn/pages)                     | A powerful Figma plugin that simplifies page creation and organization. Collaborate seamlessly and improve your design workflow. | [Marketplace](https://www.figma.com/community/plugin/1106104074775818911/Pages) |
 | [Pokemon](https://github.com/rohzzn/pokemon)                 | Embark on a nostalgic adventure with this captivating 2D platformer game featuring beloved Pokémon characters. | [Live Demo](https://rohzzn.github.io/pokemon/)               |
