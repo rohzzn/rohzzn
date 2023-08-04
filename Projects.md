@@ -1,3 +1,16 @@
+# Personal Projects
+
+List of personal projects I've made, varying from games, applications, websites, and portfolios.
+
+### Table of Contents
+
+
+   * [Games](#games)
+   * [Applications](#applications)
+   * [Websites](#websites)
+   * [Portfolios](#portfolios)
+
+
 ### Games
 
 | Project                                                      | Description                                                  | Links                                                        |
