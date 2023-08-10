@@ -8,8 +8,8 @@ List of personal projects I've made, varying from games, applications, websites,
    * [Games](#games)
    * [Applications](#applications)
    * [Websites](#websites)
+   * [Machine learning and Data Analysis](#machine-learning-and-data-analysis)
    * [Portfolios](#portfolios)
-   * [Machine learning and Data Analysis](#machine_learning)
 
 
 ![image 1](https://github.com/rohzzn/rohzzn/assets/47408756/2d2428fd-8ce6-4fac-944a-85813fe2fddc)
