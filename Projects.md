@@ -9,7 +9,7 @@ List of personal projects I've made, varying from games, applications, websites,
    * [Applications](#applications)
    * [Websites](#websites)
    * [Portfolios](#portfolios)
-
+   * [Machine learning and Data Analysis](#machine_learning)
 
 
 ![image 1](https://github.com/rohzzn/rohzzn/assets/47408756/2d2428fd-8ce6-4fac-944a-85813fe2fddc)
@@ -50,6 +50,15 @@ List of personal projects I've made, varying from games, applications, websites,
 | [Thumbnailer](https://github.com/rohzzn/thumbnails) | YouTube video thumbnail downloader.                          | [Live Demo](https://rohzzn.github.io/thumbnails/)            |
 | [College Resume](https://github.com/rohzzn/mrec-resume) | Customizable resume template in MREC format.                 | [Live Demo](https://mrec-resume.vercel.app)            |
 | [MCU Timeline](https://github.com/rohzzn/mcu_timeline) | Marvel Cinematic Universe Timeline.                          | [Live Demo](https://rohzzn.github.io/mcu_timeline/)            |
+
+<br>
+
+### Machine Learning and Data Analysis
+
+| Project                                                      | Description                                                  | Links                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Automobile Analytics](https://github.com/rohzzn/automobile) | Marketing strategies for an automobile company.              | [Notes](https://github.com/rohzzn/automobile/blob/main/colab.ipynb)            |
+
 
 
 <br>
