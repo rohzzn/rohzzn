@@ -9,6 +9,7 @@ List of personal projects I've made, varying from games, applications, websites,
    * [Applications](#applications)
    * [Websites](#websites)
    * [Machine learning and Data Analysis](#machine-learning-and-data-analysis)
+   * [IOT](#iot)
    * [Portfolios](#portfolios)
 
 
@@ -53,13 +54,19 @@ List of personal projects I've made, varying from games, applications, websites,
 
 <br>
 
-### Machine Learning and Data Analysis
+### Machine Learning and Data Analysis 
 
 | Project                                                      | Description                                                  | Links                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Automobile Analytics](https://github.com/rohzzn/automobile) | Marketing strategies for an automobile company.              | [Notes](https://github.com/rohzzn/automobile/blob/main/colab.ipynb)            |
 
+<br>
 
+### IOT
+
+| Project                                                      | Description                                                  | Links                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Smart Agriculture](https://github.com/rohzzn/smart_agriculture) | Agriculture using automation for optimal growth and reduced labor costs.          | [Paper](https://github.com/rohzzn/smart_agriculture/blob/main/Smart.pdf)            |
 
 <br>
 
