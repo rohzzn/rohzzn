@@ -6,11 +6,7 @@
 
 #
 
-I'm am SDE intern at Ixigo (Abhibus) while wrapping up my final year at mrec. I like building beautiful applications and I've created some [projects](https://github.com/rohzzn/rohzzn/blob/main/Projects.md) in the past.
+I'm an SDE intern at Ixigo (Abhibus) while wrapping up my final year at mrec. I enjoy building beautiful applications, and I've created some [projects](https://github.com/rohzzn/rohzzn/blob/main/Projects.md) in the past. I'm not just about the code, I'm all about those sleek UI and graphic design. You can check out my creations on [Behance](https://www.behance.net/rohzzn) and [Dribbble](https://dribbble.com/rohzzn). I've also made [YouTube](https://youtube.com/rohzzn) videos where I share knowledge and maybe a few gameplays.
 
-I'm not just about the code. I'm all about those sleek UI designs and graphic design. Peep my creations on [behance](https://www.behance.net/rohzzn) / [dribbble](https://dribbble.com/rohzzn)
-and I've made [youtube](https://youtube.com/rohzzn) videos where I drop knowledge and maybe a few gameplays.
-
-Join my [server](https://discord.gg/qKVQZ4Rha3) which is basically my second home. Hit me up on [X](https://x.com/rohzzn) for a quick convo. when it's time for the serious stuff, you can hit me up through my [inbox](mailto:rohan.mbox@gmail.com). And for all you FPS fanatics out there, see you on my [Steam](https://steamcommunity.com/id/rohzzn/).
-
-
+You're welcome to join my [server](https://discord.gg/qKVQZ4Rha3), which is essentially my second home. Feel free to reach out to me on [X](https://x.com/rohzzn) for a quick chat. 
+When it's time for serious matters, you can contact me through my [inbox](mailto:rohan.mbox@gmail.com). And for all you FPS fanatics out there, see you on my [Steam](https://steamcommunity.com/id/rohzzn/).
