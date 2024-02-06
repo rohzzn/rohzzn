@@ -12,9 +12,12 @@
 
 ---
 
-<p style="margin: -20px 0 30px">
-  <a href="https://www.rohan.fun" target="_blank" style='margin-right:0px; margin-top:5px'>
-    <img align="center" src="https://github.com/rohzzn/rohzzn/assets/47408756/3bed4fff-2e08-475c-b554-4234afda5a0e" alt="donation" height="35px" />
+<p align="left">
+  <a href="https://www.rohan.fun" target="_blank" style="margin-right: 10px;">
+    <img src="https://github.com/rohzzn/rohzzn/assets/47408756/3bed4fff-2e08-475c-b554-4234afda5a0e" alt="donation" height="35px" />
+  </a>
+
+  <a href="https://rohzzn.gumroad.com/" target="_blank">
+    <img src="https://github.com/rohzzn/rohzzn/assets/47408756/3c68ad44-91ab-4d49-97cb-cd1628760feb" alt="donation" height="35px" />
   </a>
 </p>
-
