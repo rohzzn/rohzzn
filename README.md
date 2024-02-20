@@ -10,3 +10,7 @@
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
  
 
+
+![status](https://api.statusbadges.me/badge/status/407922731645009932?simple=true) ![playing](https://api.statusbadges.me/badge/playing/407922731645009932)
+ ![vscode](https://api.statusbadges.me/badge/vscode/407922731645009932) [![spotify](https://api.statusbadges.me/badge/spotify/407922731645009932)](https://api.statusbadges.me/openspotify/407922731645009932)
+
