@@ -3,6 +3,9 @@
 ![status](https://api.statusbadges.me/badge/status/407922731645009932?style=flat-square) ![playing](https://api.statusbadges.me/badge/playing/407922731645009932?style=flat-square) ![vscode](https://api.statusbadges.me/badge/vscode/407922731645009932?style=flat-square) [![spotify](https://api.statusbadges.me/badge/spotify/407922731645009932?style=flat-square)](https://api.statusbadges.me/openspotify/407922731645009932?style=flat-square) 
 
 ---
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }} 
 
 | Project        | Description                                            | Repo                                  | Info                                          | Links                                                        |
 | -------------- | ------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -17,6 +20,3 @@
 | ipynbImages | Python package to Extract images from ipynb. | [repo/ipynbImages](https://github.com/rohzzn/ipynb-image-extract) | WIP     | [Pypi](https://pypi.org/project/ipynb-image-extract/) |
 | Pages          | Figma plugin to create pages.                          | [repo/pages](https://github.com/rohzzn/pages)     | 700+ Users                                            | [Marketplace](https://www.figma.com/community/plugin/1106104074775818911/pages) |
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }} 
