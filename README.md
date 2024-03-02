@@ -2,7 +2,6 @@
 
 ![status](https://api.statusbadges.me/badge/status/407922731645009932?style=flat-square) ![playing](https://api.statusbadges.me/badge/playing/407922731645009932?style=flat-square) ![vscode](https://api.statusbadges.me/badge/vscode/407922731645009932?style=flat-square) [![spotify](https://api.statusbadges.me/badge/spotify/407922731645009932?style=flat-square)](https://api.statusbadges.me/openspotify/407922731645009932?style=flat-square) 
 
----
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B140.9%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B122.6%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B118.4%25)
