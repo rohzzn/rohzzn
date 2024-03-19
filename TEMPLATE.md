@@ -1,9 +1,9 @@
 ![](https://github.com/rohzzn/rohzzn/blob/main/Gif.gif)
 
-![status](https://api.statusbadges.me/badge/status/407922731645009932?style=flat-square) ![playing](https://api.statusbadges.me/badge/playing/407922731645009932?style=flat-square) ![vscode](https://api.statusbadges.me/badge/vscode/407922731645009932?style=flat-square) [![spotify](https://api.statusbadges.me/badge/spotify/407922731645009932?style=flat-square)](https://api.statusbadges.me/openspotify/407922731645009932?style=flat-square) 
-
----
-
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }} 
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rohansanjeev&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=b5b5b5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rohansanjeev&redirect=true)
