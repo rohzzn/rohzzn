@@ -9,7 +9,3 @@
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B11.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.4%25)
  
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rohansanjeev&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=b5b5b5&bar_color_cover=false)](https://open.spotify.com/user/rohansanjeev)
