@@ -2,11 +2,6 @@
 
 List of personal projects I've made, varying from games, applications, websites, and portfolios.
 
-![status](https://api.statusbadges.me/badge/status/407922731645009932?style=flat-square) ![playing](https://api.statusbadges.me/badge/playing/407922731645009932?style=flat-square) ![vscode](https://api.statusbadges.me/badge/vscode/407922731645009932?style=flat-square) [![spotify](https://api.statusbadges.me/badge/spotify/407922731645009932?style=flat-square)](https://api.statusbadges.me/openspotify/407922731645009932?style=flat-square) 
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }} 
 
 | Project        | Description                                            | Repo                                  | Info                                          | Links                                                        |
 | -------------- | ------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -24,7 +19,26 @@ List of personal projects I've made, varying from games, applications, websites,
 
 
 
-different list 
+| No. | Project                           | Description                                    | Links                                               |
+| --- | --------------------------------- | ---------------------------------------------- | --------------------------------------------------- |
+| 1   | Abiram's Website                  | Personal website of Abiram.                    | [Visit](https://abiram.fyi/)                        |
+| 2   | Design Blues                      | Creative design agency.                        | [Explore](https://designblues.in/)                  |
+| 3   | Eternal Spaces                    | Interior design company.                       | [Discover](http://eternalspaces.in/)                |
+| 4   | CodeChef Chapter                  | CodeChef chapter club at MREC                  | [Visit](https://mreccodechef.github.io/Website/)    |
+| 5   | [Portfolio V4](https://github.com/rohzzn/windows95) | Windows 95 style portfolio.                     | [Live Demo](https://rohzzn.github.io/windows95/)    |
+| 6   | [Portfolio V3](https://github.com/rohzzn/portfolio_v3/) | Minimalist design portfolio.                    | [Live Demo](https://rohzzn.github.io/portfolio_v3/) |
+| 7   | [Portfolio V2](https://github.com/rohzzn/portfolio_v2) | Professional design portfolio.                  | [Live Demo](https://rohzzn.github.io/portfolio_v2/) |
+| 8   | [Portfolio V1](https://github.com/rohzzn/portfolio_v1) | Anime-themed portfolio.                         | [Live Demo](https://rohzzn.github.io/portfolio_v1/) |
+
+
+
+
+
+---
+---
+---
+
+
 
 | No. | Project                                                      | Description                                                  | Links                                                        |
 | --- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
