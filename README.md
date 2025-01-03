@@ -10,10 +10,11 @@
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.9%25)
  
 
-## Currently
+## Things
 - Pursing masters in computer science
 - Building a community on [discord](https://discord.com/invite/86H5fscts9)
 - I daily use `.py`, `.java`, `.js` , `.tsx`, `.ts`, `.psd`, `.fig`
 - I [write](https://www.rohan.run/writing) about software and life sometimes
-- Reach me at [x.com/rohzzn](https://x.com/rohzzn)
+- Reach me on [x.com/rohzzn](https://x.com/rohzzn)
+- Leave a message on my [guestbook](https://www.rohan.run/guestbook) 
 
