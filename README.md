@@ -14,7 +14,7 @@
 - Pursing masters in computer science
 - Building a community on [discord](https://discord.com/invite/86H5fscts9)
 - I daily use `.py`, `.java`, `.js` , `.tsx`, `.ts`, `.psd`, `.fig`
-- I [write](https://www.rohan.run/writing) about software and life sometimes
+- I sometimes [write](https://www.rohan.run/writing) about software and life 
 - Reach me on [x.com/rohzzn](https://x.com/rohzzn)
 - Leave a message on my [guestbook](https://www.rohan.run/guestbook) 
 
