@@ -12,7 +12,7 @@
 
 ## Things
 - Pursing masters in computer science
-- Building a community on [discord](https://discord.com/invite/86H5fscts9)
+- Building some [side-projects](https://www.rohan.run/projects) in free time
 - I daily use `.py`, `.java`, `.js` , `.tsx`, `.ts`, `.psd`, `.fig`
 - I sometimes [write](https://www.rohan.run/writing) about software and life 
 - Reach me on [x.com/rohzzn](https://x.com/rohzzn)
