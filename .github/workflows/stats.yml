@@ -5,23 +5,28 @@ on:
     branches:
       - master
       - main
+
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push
-        fi
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@v1 # Ensure this action is updated or replaced
+
+        # If you have updated or replaced the action, reflect the correct version/tag here
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "Update README"
+            git push
+          fi
