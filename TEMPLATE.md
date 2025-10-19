@@ -7,7 +7,6 @@
 ## Things
 - Pursing masters in computer science
 - Building some [side-projects](https://www.rohan.run/projects) in free time
-- I daily use `.py`, `.java`, `.js` , `.tsx`, `.ts`, `.psd`, `.fig`
 - I sometimes [write](https://www.rohan.run/writing) about software and life 
 - Reach me on [x.com/rohzzn](https://x.com/rohzzn)
 - Leave a message on my [guestbook](https://www.rohan.run/guestbook) 
