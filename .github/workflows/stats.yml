@@ -1,23 +1,25 @@
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 */12 * * *'
   push:
     branches:
       - master
       - main
 
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Generate README.md
-        uses: teoxoy/profile-readme-stats@v1 # Ensure this action is updated or replaced
-
-        # If you have updated or replaced the action, reflect the correct version/tag here
+        uses: teoxoy/profile-readme-stats@v3
         with:
           token: ${{ secrets.USER_TOKEN }}
 
